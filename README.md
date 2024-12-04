@@ -99,7 +99,7 @@ Assuming you have already created a [Streamlit](https://streamlit.io) account an
 
 ## Demo
 
-- [Demo Video](https://raw.githubusercontent.com/alfie-bb/loginFTP/23e973efababaa7643eba894a09267a33d8679dd/demo.mp423e973efababaa7643eba894a09267a33d8679dd/demo.mp4)
+- [Demo video](https://github.com/alfie-bb/loginFTP/blob/main/demo.mp4)
 
 
 ## Authors
