@@ -3,7 +3,7 @@ from ftplib import FTP
 import os
 
 # FTP Server Credentials
-FTP_HOST = ""
+FTP_HOST = "90.200.42.211"
 FTP_PORT = 21
 FTP_USER = "user"
 FTP_PASS = "password"
